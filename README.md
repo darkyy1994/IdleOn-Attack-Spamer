@@ -16,7 +16,7 @@ REQUIRED PROGRAMMS TO RUN: Autohotkey
 https://www.autohotkey.com/
 
 
-Quick Guide: 
+Quick Setup Guide: 
 
 1.) Download Autohotkey and install it.
 
@@ -32,7 +32,7 @@ Quick Guide:
 
 
 
-
+Little Info About it
 
 You can download 2 files:
 
