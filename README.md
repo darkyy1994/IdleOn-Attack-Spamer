@@ -3,6 +3,7 @@
 Spams the attacks 1-6 in the Game IdleOn - The Idle MMO
 
 I used this script to farm me the "Nuget Cake Fedora" Helm from the Crabcakes it needs to be done activly
+I did setup my skillbar in a way that it can spam my skills without problems (No target skills many aoe skills)
 
 https://idleon.wiki/wiki/Nuget_Cake_Fedora
 
