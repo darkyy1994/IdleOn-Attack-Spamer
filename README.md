@@ -10,6 +10,7 @@ https://idleon.wiki/wiki/Nuget_Cake_Fedora
 
 
 
+
 REQUIRED PROGRAMMS TO RUN: Autohotkey
 
 https://www.autohotkey.com/
@@ -20,6 +21,7 @@ Quick Guide:
 1.) Download Autohotkey and install it.
 
 2.) Download the IdleOn Attack Spamer.exe and run it.
+
 
 
 
