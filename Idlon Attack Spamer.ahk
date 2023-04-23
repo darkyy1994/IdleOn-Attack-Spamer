@@ -1,8 +1,10 @@
 IdleOnBot:
+   CoordMode tooltip, screen
    IdleOnBotFunc()
 return
+CoordMode tooltip, screen
 showIdleOnBot(text) {
-  		tooltip %text%, A_ScreenWidth/2 -100, 0, 10<
+  		tooltip %text%, A_ScreenWidth/2 -100, 0, 10
 	}
 IdleOnBotFunc() {
 		showIdleOnBot("-IdleOn Bot-`n`nF3 to Spam Skills`n`nF11 to EXIT")
