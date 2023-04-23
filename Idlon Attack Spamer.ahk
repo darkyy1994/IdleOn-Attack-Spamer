@@ -41,10 +41,3 @@ return
 
 f11::
 ExitApp
-
-
-
-
-
-
-
